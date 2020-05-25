@@ -1,11 +1,13 @@
-//Richiesta utente prompt
+// ** MAIL
+
+//Richiesta mail utente
 var mailUtente = prompt('Inserire la mail personale');
 
 //Disposizioni mail
 var mailPersonale= ['rosa@gmail.com','luca@gmail.com','antonio@gmail.com','mario@gmail.com','elena@gmail.com',];
 
 
-//Verifica inserimento
+//Verifica di condizione inserimento v/f
 var mailCorretta = false;
 
 //Array verifica accesso
